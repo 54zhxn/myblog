@@ -1,12 +1,5 @@
 ---
 title: Hello World
-categories:
-  - 文章分类
-tags:
-  - 文章标签
-  - 懂
-toc: true # 是否启用内容索引
-sidebar: none # 是否启用sidebar侧边栏，none：不启用
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 

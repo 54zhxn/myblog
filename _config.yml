@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -93,9 +93,33 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: pure
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# # hexo-neat
+# neat_enable: true
+# neat_html:
+#   enable: true
+#   exclude:  
+# neat_css:
+#   enable: true
+#   exclude:
+#     - '*.min.css'
+# neat_js:
+#   enable: true
+#   mangle: true
+#   output:
+#   compress:
+#   exclude:
+#     - '*.min.js' 
+
+# translate_title:
+#   translate_way: google    #google | baidu | youdao
+#   youdao_api_key: XXX
+#   youdao_keyfrom: XXX
+#   is_need_proxy: false     #true | false
+#   proxy_url: http://localhost:8123
